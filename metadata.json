@@ -1,0 +1,6 @@
+{
+  "name": "EDU TEACHER VN",
+  "description": "Trợ lý AI chuyên nghiệp cho giáo viên THPT: Soạn kế hoạch bài dạy chuẩn Công văn 5512, trình chiếu slide 16:9, ngân hàng câu hỏi kiểm tra và quản lý tài liệu SGK/SGV/SBT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
